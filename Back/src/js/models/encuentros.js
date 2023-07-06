@@ -1,5 +1,4 @@
 var mongoose= require('mongoose');
-
 Schema=mongoose.Schema;
 
 var encuentrosSchema= new mongoose.Schema({

@@ -1,7 +1,4 @@
 
-
-
-
 const express=require('express'),
      router=express.Router()
      personas=require('../controllers/personasController');
